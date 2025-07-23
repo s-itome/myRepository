@@ -1,1 +1,2 @@
 This is a file to test Git Connector.
+This is additional text
